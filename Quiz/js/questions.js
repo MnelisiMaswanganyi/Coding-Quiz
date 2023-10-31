@@ -69,13 +69,13 @@ let questions = [
 },
   {
   numb: 7,
-  question: "Which type of JavaScript language is ___ ",
-  answer: "Object-Based",
+  question: "When an operators value is NULL, the typeof returned by the unary operator is: ",
+  answer: "Object ",
   options: [
-    "Object-Oriented" ,
-    "Object-Based",
-    "Assembly-language",
-    "High-level"
+    "Boolean" ,
+    "Object ",
+    "Undefined ",
+    "Integer"
   ]
 
 },
