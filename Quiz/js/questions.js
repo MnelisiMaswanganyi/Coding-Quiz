@@ -70,11 +70,11 @@ let questions = [
   {
   numb: 7,
   question: "When an operators value is NULL, the typeof returned by the unary operator is: ",
-  answer: "Object ",
+  answer: "Object",
   options: [
     "Boolean" ,
-    "Object ",
-    "Undefined ",
+    "Object",
+    "Undefined",
     "Integer"
   ]
 
