@@ -41,6 +41,6 @@ Feel free to customize the quiz game to suit your needs. You can:
 We appreciate your feedback! If you have any suggestions, bug reports.
 Enjoy playing the JavaScript Quiz Game!
 
-##Netlify link : 
+## Netlify link : 
 
 codingquizz2.netlify.app
